@@ -21,3 +21,6 @@ Botframework - https://dev.botframework.com/
 Hangfire - https://www.hangfire.io	
 
 JsonGenerator - https://www.json-generator.com/	
+
+QuickType - https://app.quicktype.io
+
