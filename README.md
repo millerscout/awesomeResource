@@ -1,5 +1,7 @@
 CronLess - https://cronless.com/account/subscription	
 
+PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/?url=www.metodologiagb.com.br
+
 Linqpad - https://www.linqpad.net/
 
 RequestBin - https://requestb.in
