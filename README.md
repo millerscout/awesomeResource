@@ -1,6 +1,6 @@
 CronLess - https://cronless.com/account/subscription	
 
-PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/?url=www.metodologiagb.com.br
+PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/
 
 Linqpad - https://www.linqpad.net/
 
