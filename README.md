@@ -31,3 +31,5 @@ With ease, pleasure and plain SQL.
 [Liquidbase](https://www.liquibase.org/quickstart.html) - Source Control For Your Database: Liquibase is an open source, database-independent library 
 
 [EditorConfig Reference](https://kent-boogaart.com/blog/editorconfig-reference-for-c-developers) - from KentBoogarart, nice post explaning standards for c# developers.
+
+[12 Factor](https://12factor.net/pt_br) 
