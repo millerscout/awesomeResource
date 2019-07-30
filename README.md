@@ -33,3 +33,7 @@ With ease, pleasure and plain SQL.
 [EditorConfig Reference](https://kent-boogaart.com/blog/editorconfig-reference-for-c-developers) - from KentBoogarart, nice post explaning standards for c# developers.
 
 [12 Factor](https://12factor.net/pt_br) 
+
+[BDDFY](https://github.com/TestStack/TestStack.BDDfy)
+
+[AutoFixture](https://github.com/AutoFixture/AutoFixture)
