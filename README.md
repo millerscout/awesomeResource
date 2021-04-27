@@ -45,3 +45,5 @@ https://www.jam-software.com/treesize_free
 http://docfetcher.sourceforge.net/en/index.html
 
 https://www.mockaroo.com/
+
+https://github.com/ejwa/gitinspector
