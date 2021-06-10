@@ -48,4 +48,4 @@ https://www.mockaroo.com/
 
 https://github.com/ejwa/gitinspector
 
-https://www.microsoft.com/en-us/download/details.aspx?id=24659
+https://techcommunity.microsoft.com/t5/exchange-team-blog/log-parser-studio-2-0-is-now-available/ba-p/593266
